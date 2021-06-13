@@ -9,4 +9,3 @@ mod = num3 % num4;
 console.log(mod);
 
 let max = Math.max(1, 2, 6, 9, 20);
-
